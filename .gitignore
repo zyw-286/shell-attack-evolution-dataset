@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets — never commit API keys
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local raw working data (too large / sensitive to commit)
+# The published dataset lives under dataset/; raw captures stay local.
+raw/
+*.pcap
+# Malware samples must never be committed
+downloads/
+*.x86
+*.x86_64
+*.mips
+*.arm
+
+# Large intermediate artifacts
+*.npy
+*.parquet
+*.xlsx
+dataset/**/*.parquet

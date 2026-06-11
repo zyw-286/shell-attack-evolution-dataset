@@ -1,0 +1,27 @@
+{"technique_id": "T1016", "technique": "System Network Configuration Discovery", "share_2021_2022": 0.00085, "share_2024": 0.01751, "trend": "up"}
+{"technique_id": "T1033", "technique": "System Owner/User Discovery", "share_2021_2022": 4e-05, "share_2024": 0.01589, "trend": "up"}
+{"technique_id": "T1069", "technique": "Permission Groups Discovery", "share_2021_2022": 0.0, "share_2024": 0.00016, "trend": "up"}
+{"technique_id": "T1082", "technique": "System Information Discovery", "share_2021_2022": 0.18294, "share_2024": 0.06894, "trend": "down"}
+{"technique_id": "T1083", "technique": "File and Directory Discovery", "share_2021_2022": 0.08058, "share_2024": 0.04499, "trend": "down"}
+{"technique_id": "T1087", "technique": "Account Discovery", "share_2021_2022": 0.11551, "share_2024": 0.04382, "trend": "down"}
+{"technique_id": "T1124", "technique": "System Time Discovery", "share_2021_2022": 4e-05, "share_2024": 2e-05, "trend": "down"}
+{"technique_id": "T1424", "technique": "Process Discovery", "share_2021_2022": 0.05726, "share_2024": 0.01835, "trend": "down"}
+{"technique_id": "T1518", "technique": "Software Discovery", "share_2021_2022": 4e-05, "share_2024": 0.00133, "trend": "up"}
+{"technique_id": "T1614", "technique": "System Location Discovery", "share_2021_2022": 0.0, "share_2024": 6e-05, "trend": "up"}
+{"technique_id": "T1005", "technique": "Data from Local System", "share_2021_2022": 0.00023, "share_2024": 0.0024, "trend": "up"}
+{"technique_id": "T1071", "technique": "Application Layer Protocol", "share_2021_2022": 0.0, "share_2024": 0.00019, "trend": "up"}
+{"technique_id": "T1105", "technique": "Ingress Tool Transfer", "share_2021_2022": 0.02113, "share_2024": 0.0207, "trend": "down"}
+{"technique_id": "T1003", "technique": "OS Credential Dumping", "share_2021_2022": 0.0, "share_2024": 0.00017, "trend": "up"}
+{"technique_id": "T1059", "technique": "Command and Scripting Interpreter", "share_2021_2022": 0.18043, "share_2024": 0.15815, "trend": "down"}
+{"technique_id": "T1053", "technique": "Scheduled Task/Job", "share_2021_2022": 0.05731, "share_2024": 0.01583, "trend": "down"}
+{"technique_id": "T1098", "technique": "Account Manipulation", "share_2021_2022": 0.20268, "share_2024": 0.1374, "trend": "down"}
+{"technique_id": "T1547", "technique": "Boot or Logon Autostart Execution", "share_2021_2022": 0.00069, "share_2024": 5e-05, "trend": "down"}
+{"technique_id": "T1548", "technique": "Abuse Elevation Control Mechanism", "share_2021_2022": 0.00173, "share_2024": 0.00019, "trend": "down"}
+{"technique_id": "T1027", "technique": "Obfuscated Files or Information", "share_2021_2022": 0.00499, "share_2024": 0.01582, "trend": "up"}
+{"technique_id": "T1070", "technique": "Indicator Removal", "share_2021_2022": 0.01834, "share_2024": 0.17176, "trend": "up"}
+{"technique_id": "T1222", "technique": "File and Directory Permissions Modification", "share_2021_2022": 0.0584, "share_2024": 0.22948, "trend": "up"}
+{"technique_id": "T1562", "technique": "Impair Defenses", "share_2021_2022": 0.0, "share_2024": 0.01585, "trend": "up"}
+{"technique_id": "T1564", "technique": "Hide Artifacts", "share_2021_2022": 5e-05, "share_2024": 0.00146, "trend": "up"}
+{"technique_id": "T1655", "technique": "Masquerading", "share_2021_2022": 0.0165, "share_2024": 0.01874, "trend": "up"}
+{"technique_id": "T1489", "technique": "Service Stop", "share_2021_2022": 0.00021, "share_2024": 0.00073, "trend": "up"}
+{"technique_id": "T1496", "technique": "Resource Hijacking", "share_2021_2022": 5e-05, "share_2024": 4e-05, "trend": "down"}

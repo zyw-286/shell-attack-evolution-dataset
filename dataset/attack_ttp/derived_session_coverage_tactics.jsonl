@@ -1,0 +1,19 @@
+{"period": "2021_2022", "tactic": "Execution", "session_count": 5240, "session_share": 0.976701}
+{"period": "2021_2022", "tactic": "Discovery", "session_count": 4306, "session_share": 0.80261}
+{"period": "2021_2022", "tactic": "Defense Evasion", "session_count": 4001, "session_share": 0.74576}
+{"period": "2021_2022", "tactic": "Collection", "session_count": 3972, "session_share": 0.740354}
+{"period": "2021_2022", "tactic": "Privilege Escalation", "session_count": 3340, "session_share": 0.622554}
+{"period": "2021_2022", "tactic": "Persistence", "session_count": 3243, "session_share": 0.604473}
+{"period": "2021_2022", "tactic": "Unmapped", "session_count": 3219, "session_share": 0.6}
+{"period": "2021_2022", "tactic": "Command and Control", "session_count": 1112, "session_share": 0.207269}
+{"period": "2021_2022", "tactic": "Impact", "session_count": 8, "session_share": 0.001491}
+{"period": "2024", "tactic": "Defense Evasion", "session_count": 5609, "session_share": 0.842445}
+{"period": "2024", "tactic": "Privilege Escalation", "session_count": 4943, "session_share": 0.742415}
+{"period": "2024", "tactic": "Persistence", "session_count": 4937, "session_share": 0.741514}
+{"period": "2024", "tactic": "Discovery", "session_count": 2190, "session_share": 0.328928}
+{"period": "2024", "tactic": "Execution", "session_count": 1799, "session_share": 0.270201}
+{"period": "2024", "tactic": "Unmapped", "session_count": 741, "session_share": 0.111295}
+{"period": "2024", "tactic": "Command and Control", "session_count": 567, "session_share": 0.085161}
+{"period": "2024", "tactic": "Collection", "session_count": 67, "session_share": 0.010063}
+{"period": "2024", "tactic": "Impact", "session_count": 27, "session_share": 0.004055}
+{"period": "2024", "tactic": "Credential Access", "session_count": 7, "session_share": 0.001051}

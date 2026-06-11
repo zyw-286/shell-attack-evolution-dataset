@@ -1,0 +1,49 @@
+{"period": "2021_2022", "technique_id": "T1059", "technique": "T1059 Command and Scripting Interpreter", "tactics": "Execution", "session_count": 5240, "session_share": 0.976701}
+{"period": "2021_2022", "technique_id": "T1083", "technique": "T1083 File and Directory Discovery", "tactics": "Discovery", "session_count": 4241, "session_share": 0.790494}
+{"period": "2021_2022", "technique_id": "T1082", "technique": "T1082 System Information Discovery", "tactics": "Discovery", "session_count": 4007, "session_share": 0.746878}
+{"period": "2021_2022", "technique_id": "T1005", "technique": "T1005 Data from Local System", "tactics": "Collection", "session_count": 3972, "session_share": 0.740354}
+{"period": "2021_2022", "technique_id": "T1087", "technique": "T1087 Account Discovery", "tactics": "Discovery", "session_count": 3336, "session_share": 0.621808}
+{"period": "2021_2022", "technique_id": "T1098", "technique": "T1098 Account Manipulation", "tactics": "Persistence; Privilege Escalation", "session_count": 3243, "session_share": 0.604473}
+{"period": "2021_2022", "technique_id": "T1222", "technique": "T1222 File and Directory Permissions Modification", "tactics": "Defense Evasion", "session_count": 3223, "session_share": 0.600746}
+{"period": "2021_2022", "technique_id": "T1053", "technique": "T1053 Scheduled Task/Job", "tactics": "Persistence; Privilege Escalation", "session_count": 3219, "session_share": 0.6}
+{"period": "2021_2022", "technique_id": "T1057", "technique": "T1057 Process Discovery", "tactics": "Unmapped", "session_count": 3179, "session_share": 0.592544}
+{"period": "2021_2022", "technique_id": "T1105", "technique": "T1105 Ingress Tool Transfer", "tactics": "Command and Control", "session_count": 1112, "session_share": 0.207269}
+{"period": "2021_2022", "technique_id": "T1070", "technique": "T1070 Indicator Removal", "tactics": "Defense Evasion", "session_count": 888, "session_share": 0.165517}
+{"period": "2021_2022", "technique_id": "T1036", "technique": "T1036 Masquerading", "tactics": "Defense Evasion", "session_count": 851, "session_share": 0.158621}
+{"period": "2021_2022", "technique_id": "T1027", "technique": "T1027 Obfuscated Files or Information", "tactics": "Defense Evasion", "session_count": 128, "session_share": 0.023858}
+{"period": "2021_2022", "technique_id": "T1548", "technique": "T1548 Abuse Elevation Control Mechanism", "tactics": "Defense Evasion; Privilege Escalation", "session_count": 97, "session_share": 0.01808}
+{"period": "2021_2022", "technique_id": "T1016", "technique": "T1016 System Network Configuration Discovery", "tactics": "Discovery", "session_count": 48, "session_share": 0.008947}
+{"period": "2021_2022", "technique_id": "T1424", "technique": "T1424 Process Discovery", "tactics": "Discovery", "session_count": 40, "session_share": 0.007456}
+{"period": "2021_2022", "technique_id": "T1037", "technique": "T1037 Boot or Logon Initialization Scripts", "tactics": "Unmapped", "session_count": 39, "session_share": 0.007269}
+{"period": "2021_2022", "technique_id": "T1489", "technique": "T1489 Service Stop", "tactics": "Impact", "session_count": 6, "session_share": 0.001118}
+{"period": "2021_2022", "technique_id": "T1564", "technique": "T1564 Hide Artifacts", "tactics": "Defense Evasion", "session_count": 3, "session_share": 0.000559}
+{"period": "2021_2022", "technique_id": "T1124", "technique": "T1124 System Time Discovery", "tactics": "Discovery", "session_count": 3, "session_share": 0.000559}
+{"period": "2021_2022", "technique_id": "T1655", "technique": "T1655 Masquerading", "tactics": "Defense Evasion", "session_count": 3, "session_share": 0.000559}
+{"period": "2021_2022", "technique_id": "T1531", "technique": "T1531 Account Access Removal", "tactics": "Impact", "session_count": 2, "session_share": 0.000373}
+{"period": "2021_2022", "technique_id": "T1518", "technique": "T1518 Software Discovery", "tactics": "Discovery", "session_count": 2, "session_share": 0.000373}
+{"period": "2021_2022", "technique_id": "T1120", "technique": "T1120 Peripheral Device Discovery", "tactics": "Unmapped", "session_count": 1, "session_share": 0.000186}
+{"period": "2024", "technique_id": "T1070", "technique": "T1070 Indicator Removal", "tactics": "Defense Evasion", "session_count": 5555, "session_share": 0.834335}
+{"period": "2024", "technique_id": "T1222", "technique": "T1222 File and Directory Permissions Modification", "tactics": "Defense Evasion", "session_count": 5019, "session_share": 0.75383}
+{"period": "2024", "technique_id": "T1098", "technique": "T1098 Account Manipulation", "tactics": "Persistence; Privilege Escalation", "session_count": 4937, "session_share": 0.741514}
+{"period": "2024", "technique_id": "T1059", "technique": "T1059 Command and Scripting Interpreter", "tactics": "Execution", "session_count": 1799, "session_share": 0.270201}
+{"period": "2024", "technique_id": "T1083", "technique": "T1083 File and Directory Discovery", "tactics": "Discovery", "session_count": 1709, "session_share": 0.256684}
+{"period": "2024", "technique_id": "T1082", "technique": "T1082 System Information Discovery", "tactics": "Discovery", "session_count": 1339, "session_share": 0.201111}
+{"period": "2024", "technique_id": "T1087", "technique": "T1087 Account Discovery", "tactics": "Discovery", "session_count": 1328, "session_share": 0.199459}
+{"period": "2024", "technique_id": "T1057", "technique": "T1057 Process Discovery", "tactics": "Unmapped", "session_count": 737, "session_share": 0.110694}
+{"period": "2024", "technique_id": "T1562", "technique": "T1562 Impair Defenses", "tactics": "Defense Evasion", "session_count": 733, "session_share": 0.110093}
+{"period": "2024", "technique_id": "T1053", "technique": "T1053 Scheduled Task/Job", "tactics": "Persistence; Privilege Escalation", "session_count": 731, "session_share": 0.109793}
+{"period": "2024", "technique_id": "T1105", "technique": "T1105 Ingress Tool Transfer", "tactics": "Command and Control", "session_count": 567, "session_share": 0.085161}
+{"period": "2024", "technique_id": "T1036", "technique": "T1036 Masquerading", "tactics": "Defense Evasion", "session_count": 539, "session_share": 0.080955}
+{"period": "2024", "technique_id": "T1016", "technique": "T1016 System Network Configuration Discovery", "tactics": "Discovery", "session_count": 420, "session_share": 0.063082}
+{"period": "2024", "technique_id": "T1424", "technique": "T1424 Process Discovery", "tactics": "Discovery", "session_count": 158, "session_share": 0.023731}
+{"period": "2024", "technique_id": "T1005", "technique": "T1005 Data from Local System", "tactics": "Collection", "session_count": 67, "session_share": 0.010063}
+{"period": "2024", "technique_id": "T1564", "technique": "T1564 Hide Artifacts", "tactics": "Defense Evasion", "session_count": 43, "session_share": 0.006458}
+{"period": "2024", "technique_id": "T1489", "technique": "T1489 Service Stop", "tactics": "Impact", "session_count": 27, "session_share": 0.004055}
+{"period": "2024", "technique_id": "T1027", "technique": "T1027 Obfuscated Files or Information", "tactics": "Defense Evasion", "session_count": 10, "session_share": 0.001502}
+{"period": "2024", "technique_id": "T1548", "technique": "T1548 Abuse Elevation Control Mechanism", "tactics": "Defense Evasion; Privilege Escalation", "session_count": 7, "session_share": 0.001051}
+{"period": "2024", "technique_id": "T1003", "technique": "T1003 OS Credential Dumping", "tactics": "Credential Access", "session_count": 7, "session_share": 0.001051}
+{"period": "2024", "technique_id": "T1069", "technique": "T1069 Permission Groups Discovery", "tactics": "Discovery", "session_count": 7, "session_share": 0.001051}
+{"period": "2024", "technique_id": "T1082:", "technique": "T1082: System Information Discovery", "tactics": "Unmapped", "session_count": 3, "session_share": 0.000451}
+{"period": "2024", "technique_id": "T1590", "technique": "T1590 Gather Victim Network Information", "tactics": "Unmapped", "session_count": 2, "session_share": 0.0003}
+{"period": "2024", "technique_id": "T1071", "technique": "T1071 Application Layer Protocol", "tactics": "Command and Control", "session_count": 2, "session_share": 0.0003}
+{"period": "2024", "technique_id": "T1033", "technique": "T1033 System Owner/User Discovery", "tactics": "Discovery", "session_count": 1, "session_share": 0.00015}

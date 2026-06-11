@@ -1,0 +1,8 @@
+# Core analysis pipeline
+pandas>=1.5
+openpyxl>=3.0          # xlsx export in the analysis scripts
+numpy>=1.23
+
+# Dataset loading (optional but recommended)
+datasets>=2.14         # load_dataset(...) over the JSONL/CSV configs
+pyarrow>=12.0          # parquet export, faster dataset I/O

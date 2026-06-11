@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the following paper."
+title: "Shell Honeypot Attack Request–Response Dataset & Analysis Toolkit"
+type: dataset
+authors:
+  - family-names: Wang
+    given-names: Ziyang
+  - family-names: Lv
+    given-names: Shichao
+  - family-names: Wang
+    given-names: Haining
+  - family-names: You
+    given-names: Jianzhou
+  - family-names: Liu
+    given-names: Shuoyang
+  - family-names: Yuan
+    given-names: Tianwei
+  - family-names: Lu
+    given-names: Xiao
+  - family-names: Sun
+    given-names: Limin
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Unveiling Evolving Threats: A Data Analysis for Next-Generation Honeypot Development"
+  authors:
+    - family-names: Wang
+      given-names: Ziyang
+    - family-names: Lv
+      given-names: Shichao
+    - family-names: Wang
+      given-names: Haining
+    - family-names: You
+      given-names: Jianzhou
+    - family-names: Liu
+      given-names: Shuoyang
+    - family-names: Yuan
+      given-names: Tianwei
+    - family-names: Lu
+      given-names: Xiao
+    - family-names: Sun
+      given-names: Limin
+  collection-title: "IEEE International Symposium on Reliable Distributed Systems (SRDS)"
+  year: 2025
