@@ -62,8 +62,9 @@ honeypots across two collection periods — **2021–2022** and **2024**. It pai
 attacker shell commands with **real captured system responses**, enabling both
 longitudinal threat analysis and the training/evaluation of AI-driven honeypots.
 
-This is the open-source release accompanying the paper *“Unveiling Evolving
-Threats: A Data Analysis for Next-Generation Honeypot Development”* (SRDS 2025).
+This is the open-source release accompanying the paper [*“Unveiling Evolving
+Threats: A Data Analysis for Next-Generation Honeypot Development”*](https://ieeexplore.ieee.org/document/11360425/)
+(IEEE SRDS 2025).
 
 ## Why this dataset
 
@@ -243,7 +244,8 @@ Cowrie event log format for reference.
   author    = {Wang, Ziyang and Lv, Shichao and Wang, Haining and You, Jianzhou
                and Liu, Shuoyang and Yuan, Tianwei and Lu, Xiao and Sun, Limin},
   booktitle = {IEEE International Symposium on Reliable Distributed Systems (SRDS)},
-  year      = {2025}
+  year      = {2025},
+  url       = {https://ieeexplore.ieee.org/document/11360425/}
 }
 ```
 

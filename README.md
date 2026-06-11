@@ -1,7 +1,10 @@
 # Shell Honeypot Attack Dataset & Analysis Toolkit
 
-> Open-source release for *“Unveiling Evolving Threats: A Data Analysis for
-> Next-Generation Honeypot Development”* (IEEE **SRDS 2025**).
+> Open-source release for the IEEE **SRDS 2025** paper
+> [*“Unveiling Evolving Threats: A Data Analysis for Next-Generation Honeypot
+> Development”*](https://ieeexplore.ieee.org/document/11360425/).
+>
+> 📄 **Paper:** https://ieeexplore.ieee.org/document/11360425/
 
 A standardized, MITRE&nbsp;ATT&CK–annotated dataset of post-login **shell
 attacks** captured by [Cowrie](https://github.com/cowrie/cowrie) honeypots over
@@ -190,7 +193,8 @@ not attacks. See the *Ethics* section of the [dataset card](dataset/README.md).
   author    = {Wang, Ziyang and Lv, Shichao and Wang, Haining and You, Jianzhou
                and Liu, Shuoyang and Yuan, Tianwei and Lu, Xiao and Sun, Limin},
   booktitle = {IEEE International Symposium on Reliable Distributed Systems (SRDS)},
-  year      = {2025}
+  year      = {2025},
+  url       = {https://ieeexplore.ieee.org/document/11360425/}
 }
 ```
 
