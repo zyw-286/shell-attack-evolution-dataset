@@ -6,7 +6,7 @@
 >
 > 📄 **Paper:** https://ieeexplore.ieee.org/document/11360425/
 
-[![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/Ziyang23423432/shell-attack-evolution-dataset)
+[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/Ziyang23423432/shell-attack-evolution-dataset)
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20SRDS%202025-b31b1b)](https://ieeexplore.ieee.org/document/11360425/)
 [![Code License: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
@@ -126,8 +126,9 @@ shell-attack-evolution-dataset/
 │   ├── period_2024/         #    numbered pipeline 01..08 for the 2024 data (+ compare/)
 │   └── common/              #    shared helpers (session builder, pattern extractor, ATT&CK rules)
 ├── scripts/
-│   ├── build_dataset.py     #    rebuilds dataset/ from the raw analysis outputs
-│   └── build_paper_tables.py#    emits the SRDS ATT&CK tables (attack_ttp/paper_*.jsonl)
+│   ├── build_dataset.py        # rebuilds dataset/ from the raw analysis outputs
+│   ├── build_paper_tables.py   # emits the SRDS ATT&CK tables (attack_ttp/paper_*.jsonl)
+│   └── to_parquet.py           # optional: convert the JSONL configs to Parquet
 ├── docs/                    # dataset & pipeline documentation
 ├── 2021,2022/cowrie/        # full raw Cowrie capture — 2021–2022 (unprocessed logs)
 ├── 2024/cowrie/             # full raw Cowrie capture — 2024 (~1.7 GB, unprocessed logs)
