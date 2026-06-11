@@ -6,6 +6,16 @@
 >
 > 📄 **Paper:** https://ieeexplore.ieee.org/document/11360425/
 
+[![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/Ziyang23423432/shell-attack-evolution-dataset)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20SRDS%202025-b31b1b)](https://ieeexplore.ieee.org/document/11360425/)
+[![Code License: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE)
+[![Data License: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+
+> 🔎 **Browse the data interactively** in the Hugging Face
+> [**Dataset Viewer**](https://huggingface.co/datasets/Ziyang23423432/shell-attack-evolution-dataset/viewer)
+> — pick a config (`request_response`, `commands`, `sessions`, `attack_ttp_*`)
+> and page through rows or run SQL, no download needed.
+
 A standardized, MITRE&nbsp;ATT&CK–annotated dataset of post-login **shell
 attacks** captured by [Cowrie](https://github.com/cowrie/cowrie) honeypots over
 two periods (**2021–2022** and **2024**), together with the full **analysis

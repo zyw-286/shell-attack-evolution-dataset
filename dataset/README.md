@@ -66,6 +66,15 @@ This is the open-source release accompanying the paper [*“Unveiling Evolving
 Threats: A Data Analysis for Next-Generation Honeypot Development”*](https://ieeexplore.ieee.org/document/11360425/)
 (IEEE SRDS 2025).
 
+> 🔎 **Dataset Viewer.** Use the interactive table at the top of this page to
+> browse the data without downloading anything: pick a **config** from the
+> dropdown (`request_response` *(default)*, `commands`, `sessions`,
+> `attack_ttp_tactics_paper`, `attack_ttp_techniques_paper`,
+> `attack_ttp_tactics_derived`, `attack_ttp_techniques_derived`) and a **split**,
+> then page or run SQL over the rows. The flagship `request_response` /
+> `curated` split is the quickest way to see command → real-response pairs with
+> their `system_change` and `severity_vi` labels.
+
 ## Why this dataset
 
 Honeypot research has long been held back by the absence of an open, high-fidelity
