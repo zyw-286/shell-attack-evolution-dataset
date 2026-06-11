@@ -101,12 +101,12 @@ is the **default** config.
 from datasets import load_dataset
 
 # Flagship request–response interactions (real captured responses)
-rr = load_dataset("<your-hf-namespace>/shell-attack-evolution-dataset",
+rr = load_dataset("Ziyang23423432/shell-attack-evolution-dataset",
                   "request_response", split="curated")
 print(rr[0])
 
 # Per-period sessions with ATT&CK technique sequences
-sess = load_dataset("<your-hf-namespace>/shell-attack-evolution-dataset",
+sess = load_dataset("Ziyang23423432/shell-attack-evolution-dataset",
                     "sessions", split="2024")
 ```
 
@@ -180,7 +180,7 @@ configs (each a single `train` split):
 
 ```python
 from datasets import load_dataset
-tactics = load_dataset("<your-hf-namespace>/shell-attack-evolution-dataset",
+tactics = load_dataset("Ziyang23423432/shell-attack-evolution-dataset",
                        "attack_ttp_tactics_paper", split="train")
 ```
 

@@ -139,7 +139,7 @@ shell-attack-evolution-dataset/
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("<your-hf-namespace>/shell-attack-evolution-dataset",
+ds = load_dataset("Ziyang23423432/shell-attack-evolution-dataset",
                   "request_response", split="curated")
 print(ds[0]["command"], "->", ds[0]["response"])
 ```
